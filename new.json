@@ -1,0 +1,18 @@
+let user = {
+	ФИО: "Vadim Olegovich Ivanov";
+	age: 25;
+	количество домашних животных: 0;
+	будущая желаемая зарплата: 1500
+};
+let json = JSON.stringify(user);
+alert(typeof json); //мы получим строку!
+alert(json);
+/* выведет объект в формате JSON:
+{
+	"ФИО": "Vadim Olegovich Ivanov";
+        "age": 25;
+        "количество домашних животных": 0;
+        "будущая желаемая зарплата": 1500
+}
+*/
+
