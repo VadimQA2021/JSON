@@ -1,0 +1,10 @@
+{
+"header":"The essence of the problem. Should be clear and concise",
+"Description":"Usually duplicates the title, so not always necessary",
+"Playback steps":"Description of the actions that need to be taken to reach the bug",
+"Actual result":"What we see after we reproduced the bug",
+"Expected Result":"What they really wanted to see, how it should work according to the terms of reference",
+"Environment":"Where did you find the bug",
+"Attachments":"Logs, screenshots",
+"Additional Information":"explanation from the tester"
+}
